@@ -20,7 +20,7 @@ namespace Demo
         Random G_random = new Random(); //定一个随机数对象
         int G_int_num; //定义一个变量用存放随机数
         /// <summary>
-        /// 开始按钮
+        /// 开始按钮事件1
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
