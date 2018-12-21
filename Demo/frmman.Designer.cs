@@ -81,7 +81,7 @@
             this.label1.Text = "计时:";
             // 
             // button1
-            // 
+            //        
             this.button1.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.button1.Location = new System.Drawing.Point(30, 20);
             this.button1.Name = "button1";

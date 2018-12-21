@@ -38,7 +38,7 @@ namespace Demo
                 bt.Height = 38;
                 bt.Location = new Point(p_int_x, p_int_y);
                 bt.Click += new EventHandler(bt_Click);
-                p_int_x += 39;
+                p_int_x += 39;   
                 if ((i+1)%10==0)
                 {
                     p_int_x = 15;
